@@ -63,7 +63,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![output](https://github.com/SETTY-POOJITHA-AI/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/blob/main/msg.pngraw=true)
+![output](https://github.com/SETTY-POOJITHA-AI/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/blob/main/msg.png?raw=true)
 ## RESULT:
 Thus the implementation of Contiguous File allocation Methods in C program is done successfully.
 ## Linked Allocation
